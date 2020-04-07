@@ -4,6 +4,7 @@ class Dog
     @breed = breed 
     if breed = 0 
        "Mutt"
+     end
   end
     
 end 
